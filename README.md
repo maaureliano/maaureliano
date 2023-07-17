@@ -23,12 +23,11 @@
 
  
  <img height="50px" src="https://github.com/maaureliano/maaureliano/assets/139582499/3d9564ff-31bc-4030-8475-65df72910f10">  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/maaureliano/) 
-
-</div>
-
-
-<div align="right">
+</div> <div align="left">
 <img height="200px" src="https://github.com/maaureliano/maaureliano/assets/139582499/661b1b75-99cb-4a73-80fa-8abaf7ffa5cf"> 
 </div>
+
+
+
 
 
