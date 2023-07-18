@@ -13,7 +13,7 @@
 > <p>Surprisingly, I realized that my lifelong hobby of technology turned out to be one of my greatest passions, aligning perfectly with my purpose in life and everything I have always loved to study and engage in. </p>                   
 > <img height="80px" src="https://github.com/maaureliano/maaureliano/assets/139582499/3423990b-691c-473c-8057-b6004431d49e"><img height="50px" src="https://static.wikia.nocookie.net/disney/images/2/2b/DSA_portrait_caterpillar.png/revision/latest/scale-to-width-down/250?cb=20220918225839">
 #                                
-## <img height="70px" src="https://github.com/maaureliano/maaureliano/assets/139582499/c713b847-8598-4029-923e-788f03034db7"> 
+## <img height="80px" src="https://github.com/maaureliano/maaureliano/assets/139582499/c713b847-8598-4029-923e-788f03034db7"> 
 > <div align="left"> <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </P> </div>
 
 #                                
@@ -22,7 +22,7 @@
 
 
 #                                
-## <img height="50px" src="https://github.com/maaureliano/maaureliano/assets/139582499/3d9564ff-31bc-4030-8475-65df72910f10"> 
+## <img height="45px" src="https://github.com/maaureliano/maaureliano/assets/139582499/3d9564ff-31bc-4030-8475-65df72910f10"> 
 > <img height="200px" src="https://github.com/maaureliano/maaureliano/assets/139582499/661b1b75-99cb-4a73-80fa-8abaf7ffa5cf"> </p>
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maaureliano/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ma.aureliano) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maureliano)
 
